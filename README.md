@@ -1,7 +1,6 @@
 <h1 align="center">Hello there👋, I'm Megha Raj</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
 
-- 👋 Hi, I’m @megharaj07
+- 🖥  I'm a programmer passionate about building impactful solutions
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning frameworks of frontend development
 - 📫 How to reach me: fictionalmosaic07@gmail.com
