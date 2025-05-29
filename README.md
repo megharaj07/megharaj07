@@ -1,3 +1,6 @@
+<h1 align="center">Hello there👋, I'm Megha Raj</h1>
+<h3 align="center">A passionate frontend developer from India.</h3>
+
 - 👋 Hi, I’m @megharaj07
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning frameworks of frontend development
@@ -5,8 +8,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Dark mode isn't a feature, it's a lifestyle
 
-<h1 align="center">Hello there👋, I'm Megha Raj</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
