@@ -1,9 +1,9 @@
 <h1 align="center">Hello there👋, I'm Megha Raj</h1>
 
 - 🖥  I'm a programmer passionate about building impactful solutions
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning frameworks of frontend development
-- 📫 How to reach me: fictionalmosaic07@gmail.com
+- 👀 I’m interested in Full-Stack Development
+- 🌱 I’m currently learning and exploring new technologies to enhance my knowledge
+- 📫 How to reach me: megharajofficial.07@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Dark mode isn't a feature, it's a lifestyle
 
