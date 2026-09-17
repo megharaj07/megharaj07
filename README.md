@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=megharaj07&label=Profile%20views&color=0e75b6&style=flat" alt="megharaj07" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=megharaj07&label=Profile%20views&color=0e75b6&style=flat" alt="megharaj07" /> </p> -->
 
 <p align="left">
 </p>
